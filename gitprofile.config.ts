@@ -121,10 +121,10 @@ const CONFIG = {
   ],
   educations: [
     {
-      institution: 'Institution Name',
-      degree: 'Degree',
-      from: '2015',
-      to: '2019',
+      institution: 'University of Washington',
+      degree: 'Degree: Psychology',
+      from: '2022',
+      to: '2026',
     },
     {
       institution: 'Institution Name',
